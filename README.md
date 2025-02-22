@@ -51,8 +51,8 @@ open up localhost:
 
 ### Techstack Used:
 
--Python
--LangChain
--Flask
--Gemini API
--Pinecone
+- Python
+- LangChain
+- Flask
+- Gemini API
+- Pinecone
